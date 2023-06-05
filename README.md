@@ -6,7 +6,7 @@
 
 ## Description
   
-Answer the following questions to generate your own personalized README
+Answer a prompt of questions to generate a readme for your project!
   
 ## License
 
@@ -22,18 +22,21 @@ This application is covered under the MIT License license.
 [Test](#test)
    
 ## Installation
-Download the project then run node index.js to generate the README
+Download the project off of GitHub, and then type node index.js to answer all the questions.
 
 ## Usage
-Answer the questions after running node index.js
+Once you answer the questions the README will be generated for you.
 
 ## Contribution
-None
+NONE 
 
 ## Test
-None
+NONE
 
 ## Questions
 if you have any questions about this application please feel free to reach out to me via email or GitHub
 Github: - [HaydenFelfe](https://github.com/HaydenFelfe)
-Email: - Felfehayden@gmail.com
+Email: - felfehayden@gmail.com
+
+## Deployed Video
+https://drive.google.com/file/d/162yteEnwJNLUmvAgyZpQVaHEG93yaj6S/view
