@@ -25,7 +25,7 @@ function renderLicenseSection(license) {
   if (license && license !== 'No License') {
     return `## License
 
-This application is covered under the ${license} license. If you want more information on the license, please refer to the [LICENSE](LICENSE) file.
+This application is covered under the ${license} license.
 `;
   } else {
     return '';

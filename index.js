@@ -69,7 +69,6 @@ ${markdown}
 [Usage](#usage)
 [Contribution](#contribution)
 [Test](#test)
-[License](#license)
    
 ## Installation
 ${data.installation}
@@ -82,9 +81,6 @@ ${data.contribution}
 
 ## Test
 ${data.test}
-
-## License
-This application is covered under the ${data.license}
 
 ## Questions
 if you have any questions about this application please feel free to reach out to me via email or GitHub

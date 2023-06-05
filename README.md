@@ -1,16 +1,16 @@
 
 
-# QQQQ
+# Haydens README Generator
   
 [![License](https://img.shields.io/badge/license-MIT%20License-blue.svg)](LICENSE)
 
 ## Description
   
-WWWW
+Answer the following questions to generate your own personalized README
   
 ## License
 
-This application is covered under the MIT License license. If you want more information on the license, please refer to the [LICENSE](LICENSE) file.
+This application is covered under the MIT License license.
 
   
 
@@ -20,24 +20,20 @@ This application is covered under the MIT License license. If you want more info
 [Usage](#usage)
 [Contribution](#contribution)
 [Test](#test)
-[License](#license)
    
 ## Installation
-EEE
+Download the project then run node index.js to generate the README
 
 ## Usage
-RRR
+Answer the questions after running node index.js
 
 ## Contribution
-DDD
+None
 
 ## Test
-SSS
-
-## License
-This application is covered under the MIT License
+None
 
 ## Questions
 if you have any questions about this application please feel free to reach out to me via email or GitHub
-Github: - [SSS](https://github.com/SSS)
-Email: - AAA
+Github: - [HaydenFelfe](https://github.com/HaydenFelfe)
+Email: - Felfehayden@gmail.com
