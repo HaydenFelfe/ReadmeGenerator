@@ -1,20 +1,17 @@
 
 
-# Haydens README Generator
+# QQQQ
   
-
-[![License](https://img.shields.io/badge/license-MIT License-blue.svg)](LICENSE)
-
+[![License](https://img.shields.io/badge/license-MIT%20License-blue.svg)](LICENSE)
 
 ## Description
   
-Generates a readme from scratch
+WWWW
   
-
 ## License
 
-This project is licensed under the MIT License license. If you want more information on the license click [here]([License](LICENSE))
-    
+This application is covered under the MIT License license. If you want more information on the license, please refer to the [LICENSE](LICENSE) file.
+
   
 
 
@@ -26,21 +23,21 @@ This project is licensed under the MIT License license. If you want more informa
 [License](#license)
    
 ## Installation
-Follow the questions
+EEE
 
 ## Usage
-Input text for each question
+RRR
 
 ## Contribution
-None
+DDD
 
 ## Test
-None
+SSS
 
 ## License
 This application is covered under the MIT License
 
 ## Questions
 if you have any questions about this application please feel free to reach out to me via email or GitHub
-Github: - [HaydenFelfe](https://github.com/HaydenFelfe)
-Email: - felfehayden@gmail.com
+Github: - [SSS](https://github.com/SSS)
+Email: - AAA
