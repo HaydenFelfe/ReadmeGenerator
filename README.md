@@ -38,5 +38,3 @@ if you have any questions about this application please feel free to reach out t
 Github: - [HaydenFelfe](https://github.com/HaydenFelfe)
 Email: - felfehayden@gmail.com
 
-## Deployed Video
-https://drive.google.com/file/d/162yteEnwJNLUmvAgyZpQVaHEG93yaj6S/view
